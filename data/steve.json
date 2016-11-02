@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "4799972138",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 72470448,
+      "name": "bcgodfrey91/twitter-server",
+      "url": "https://api.github.com/repos/bcgodfrey91/twitter-server"
+    },
+    "payload": {
+      "push_id": 1379615015,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "5299a33a3db019d78630e1a02242a2365750c579",
+      "before": "7e8a29976abe80447e44d8c3740f8e0672fda953",
+      "commits": [
+        {
+          "sha": "5299a33a3db019d78630e1a02242a2365750c579",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add test and supporting files",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bcgodfrey91/twitter-server/commits/5299a33a3db019d78630e1a02242a2365750c579"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-11-01T19:22:41Z"
+  },
+  {
+    "id": "4799968537",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 72468119,
+      "name": "bcgodfrey91/social-solutions",
+      "url": "https://api.github.com/repos/bcgodfrey91/social-solutions"
+    },
+    "payload": {
+      "push_id": 1379613745,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/json-api-support",
+      "head": "a364c49767e35e7ac86507a281db42fa2c245910",
+      "before": "f50f56c4779cff18a7577fc8d2d010cc3e1230ca",
+      "commits": [
+        {
+          "sha": "a364c49767e35e7ac86507a281db42fa2c245910",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Update tweet and adapters",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bcgodfrey91/social-solutions/commits/a364c49767e35e7ac86507a281db42fa2c245910"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-11-01T19:22:01Z"
+  },
+  {
+    "id": "4799221598",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 72468119,
+      "name": "bcgodfrey91/social-solutions",
+      "url": "https://api.github.com/repos/bcgodfrey91/social-solutions"
+    },
+    "payload": {
+      "ref": "json-api-support",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "Mod 3 personal project. Visualizing Twitter data in Ember.",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2016-11-01T17:19:19Z"
+  },
+  {
+    "id": "4799218002",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 72470448,
+      "name": "bcgodfrey91/twitter-server",
+      "url": "https://api.github.com/repos/bcgodfrey91/twitter-server"
+    },
+    "payload": {
+      "push_id": 1379378169,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "7e8a29976abe80447e44d8c3740f8e0672fda953",
+      "before": "cbc9aae90c745f98d90ee2a61d9e1f18997dae07",
+      "commits": [
+        {
+          "sha": "8cf2277e046881bf4203ba429c51687a38f4951e",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Refactor; add nodemon",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bcgodfrey91/twitter-server/commits/8cf2277e046881bf4203ba429c51687a38f4951e"
+        },
+        {
+          "sha": "7e8a29976abe80447e44d8c3740f8e0672fda953",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add ability to format tweets and first pass at JSON API compliance",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bcgodfrey91/twitter-server/commits/7e8a29976abe80447e44d8c3740f8e0672fda953"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-11-01T17:18:44Z"
+  },
+  {
+    "id": "4798898684",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 72470448,
+      "name": "bcgodfrey91/twitter-server",
+      "url": "https://api.github.com/repos/bcgodfrey91/twitter-server"
+    },
+    "payload": {
+      "push_id": 1379277731,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "cbc9aae90c745f98d90ee2a61d9e1f18997dae07",
+      "before": "d9669908df076cb657eaf80bc5b5a5401e5a4409",
+      "commits": [
+        {
+          "sha": "cbc9aae90c745f98d90ee2a61d9e1f18997dae07",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add dependencies",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bcgodfrey91/twitter-server/commits/cbc9aae90c745f98d90ee2a61d9e1f18997dae07"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-11-01T16:28:23Z"
+  },
+  {
+    "id": "4792795412",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 56030223,
+      "name": "turingschool/front-end-curriculum",
+      "url": "https://api.github.com/repos/turingschool/front-end-curriculum"
+    },
+    "payload": {
+      "push_id": 1377278121,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/gh-pages",
+      "head": "58b3ae090717e228497ae943a1efd2e157acb04d",
+      "before": "1c01a286af3a311deea50dc027374473be297465",
+      "commits": [
+        {
+          "sha": "58b3ae090717e228497ae943a1efd2e157acb04d",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Fix the code blocks",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/front-end-curriculum/commits/58b3ae090717e228497ae943a1efd2e157acb04d"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-31T16:25:48Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4791807999",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 56030223,
+      "name": "turingschool/front-end-curriculum",
+      "url": "https://api.github.com/repos/turingschool/front-end-curriculum"
+    },
+    "payload": {
+      "push_id": 1376950011,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/gh-pages",
+      "head": "66123b1d135296457f35ccf82773563226c3c0db",
+      "before": "5e19efe0d05d3c1e0684ceae74c04e23f4ff79df",
+      "commits": [
+        {
+          "sha": "66123b1d135296457f35ccf82773563226c3c0db",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Fix code blocks",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/front-end-curriculum/commits/66123b1d135296457f35ccf82773563226c3c0db"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-31T13:51:50Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4791772414",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 56030223,
+      "name": "turingschool/front-end-curriculum",
+      "url": "https://api.github.com/repos/turingschool/front-end-curriculum"
+    },
+    "payload": {
+      "push_id": 1376937832,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/gh-pages",
+      "head": "5e19efe0d05d3c1e0684ceae74c04e23f4ff79df",
+      "before": "000a6c4962465fb1ecbff733484450ea4437e1ad",
+      "commits": [
+        {
+          "sha": "5e19efe0d05d3c1e0684ceae74c04e23f4ff79df",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add 1606 schedule",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/front-end-curriculum/commits/5e19efe0d05d3c1e0684ceae74c04e23f4ff79df"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-31T13:45:12Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4789314685",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 56030223,
+      "name": "turingschool/front-end-curriculum",
+      "url": "https://api.github.com/repos/turingschool/front-end-curriculum"
+    },
+    "payload": {
+      "push_id": 1376066950,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/gh-pages",
+      "head": "c3485bd71c83e1397fe84ccb5075f4306c4c3070",
+      "before": "07a5c0933387f0aac8894437a284fff9fe32750c",
+      "commits": [
+        {
+          "sha": "69b719eba595de152dd6e4f9e6b1dd534620c7ef",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add like 80% of tomorrow's lesson",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/front-end-curriculum/commits/69b719eba595de152dd6e4f9e6b1dd534620c7ef"
+        },
+        {
+          "sha": "c3485bd71c83e1397fe84ccb5075f4306c4c3070",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Merge branch 'gh-pages' of github.com:turingschool/front-end-curriculum into gh-pages",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/front-end-curriculum/commits/c3485bd71c83e1397fe84ccb5075f4306c4c3070"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-31T00:15:57Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4788633871",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 71650957,
+      "name": "mjvalade/cokid-hikes",
+      "url": "https://api.github.com/repos/mjvalade/cokid-hikes"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/mjvalade/cokid-hikes/issues/4",
+        "repository_url": "https://api.github.com/repos/mjvalade/cokid-hikes",
+        "labels_url": "https://api.github.com/repos/mjvalade/cokid-hikes/issues/4/labels{/name}",
+        "comments_url": "https://api.github.com/repos/mjvalade/cokid-hikes/issues/4/comments",
+        "events_url": "https://api.github.com/repos/mjvalade/cokid-hikes/issues/4/events",
+        "html_url": "https://github.com/mjvalade/cokid-hikes/pull/4",
+        "id": 185517780,
+        "number": 4,
+        "title": "WIP Firebase",
+        "user": {
+          "login": "mjvalade",
+          "id": 16725412,
+          "avatar_url": "https://avatars.githubusercontent.com/u/16725412?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/mjvalade",
+          "html_url": "https://github.com/mjvalade",
+          "followers_url": "https://api.github.com/users/mjvalade/followers",
+          "following_url": "https://api.github.com/users/mjvalade/following{/other_user}",
+          "gists_url": "https://api.github.com/users/mjvalade/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/mjvalade/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/mjvalade/subscriptions",
+          "organizations_url": "https://api.github.com/users/mjvalade/orgs",
+          "repos_url": "https://api.github.com/users/mjvalade/repos",
+          "events_url": "https://api.github.com/users/mjvalade/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/mjvalade/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "assignees": [
+
+        ],
+        "milestone": null,
+        "comments": 5,
+        "created_at": "2016-10-26T21:40:13Z",
+        "updated_at": "2016-10-30T17:27:36Z",
+        "closed_at": null,
+        "pull_request": {
+          "url": "https://api.github.com/repos/mjvalade/cokid-hikes/pulls/4",
+          "html_url": "https://github.com/mjvalade/cokid-hikes/pull/4",
+          "diff_url": "https://github.com/mjvalade/cokid-hikes/pull/4.diff",
+          "patch_url": "https://github.com/mjvalade/cokid-hikes/pull/4.patch"
+        },
+        "body": "@brittanystoroz\r\n\r\nA user can create a new hiking trail in the app that shows up in the redux store but need to send it to the DB as well.\r\n\r\nTrying to adapt existing createTrail action and trails-reducer files from redux-firebase repo expenses files to connect them to firebase."
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/mjvalade/cokid-hikes/issues/comments/257164933",
+        "html_url": "https://github.com/mjvalade/cokid-hikes/pull/4#issuecomment-257164933",
+        "issue_url": "https://api.github.com/repos/mjvalade/cokid-hikes/issues/4",
+        "id": 257164933,
+        "user": {
+          "login": "stevekinney",
+          "id": 251000,
+          "avatar_url": "https://avatars.githubusercontent.com/u/251000?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/stevekinney",
+          "html_url": "https://github.com/stevekinney",
+          "followers_url": "https://api.github.com/users/stevekinney/followers",
+          "following_url": "https://api.github.com/users/stevekinney/following{/other_user}",
+          "gists_url": "https://api.github.com/users/stevekinney/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/stevekinney/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/stevekinney/subscriptions",
+          "organizations_url": "https://api.github.com/users/stevekinney/orgs",
+          "repos_url": "https://api.github.com/users/stevekinney/repos",
+          "events_url": "https://api.github.com/users/stevekinney/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/stevekinney/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2016-10-30T17:27:36Z",
+        "updated_at": "2016-10-30T17:27:36Z",
+        "body": "Just for clarification: is it not making it into the store or is it just not rendering on the page? A quick way to check is to see if it's in the store in the Redux debugging tools for Chrome."
+      }
+    },
+    "public": true,
+    "created_at": "2016-10-30T17:27:36Z"
+  },
+  {
+    "id": "4788500995",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 59441552,
+      "name": "electron-in-action/firesale",
+      "url": "https://api.github.com/repos/electron-in-action/firesale"
+    },
+    "payload": {
+      "push_id": 1375738493,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/chapter-6",
+      "head": "ba4498d11c4ff436c681a1a04bd1c9575e8616a9",
+      "before": "c50015e3ad7bdf675a76fbee1ada2c14b65d2796",
+      "commits": [
+        {
+          "sha": "ba4498d11c4ff436c681a1a04bd1c9575e8616a9",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add link to Chapter 6's code",
+          "distinct": true,
+          "url": "https://api.github.com/repos/electron-in-action/firesale/commits/ba4498d11c4ff436c681a1a04bd1c9575e8616a9"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-30T16:07:24Z",
+    "org": {
+      "id": 19522637,
+      "login": "electron-in-action",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/electron-in-action",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19522637?"
+    }
+  },
+  {
+    "id": "4788500330",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 59441552,
+      "name": "electron-in-action/firesale",
+      "url": "https://api.github.com/repos/electron-in-action/firesale"
+    },
+    "payload": {
+      "push_id": 1375738225,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/chapter-4",
+      "head": "850687276092af0932be100bac06a40aed4579c7",
+      "before": "aca337c0943e22db73f707441dde7d1181626c5f",
+      "commits": [
+        {
+          "sha": "850687276092af0932be100bac06a40aed4579c7",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add link to Chapter 6's code",
+          "distinct": true,
+          "url": "https://api.github.com/repos/electron-in-action/firesale/commits/850687276092af0932be100bac06a40aed4579c7"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-30T16:07:01Z",
+    "org": {
+      "id": 19522637,
+      "login": "electron-in-action",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/electron-in-action",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19522637?"
+    }
+  },
+  {
+    "id": "4788499967",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 59441552,
+      "name": "electron-in-action/firesale",
+      "url": "https://api.github.com/repos/electron-in-action/firesale"
+    },
+    "payload": {
+      "push_id": 1375738080,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/chapter-3",
+      "head": "3b4664a90b7977bd879726fb4d02f2932671f238",
+      "before": "47c334a49518b309cbb74be9db388af1158dee94",
+      "commits": [
+        {
+          "sha": "3b4664a90b7977bd879726fb4d02f2932671f238",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add link to Chapter 6's code",
+          "distinct": true,
+          "url": "https://api.github.com/repos/electron-in-action/firesale/commits/3b4664a90b7977bd879726fb4d02f2932671f238"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-30T16:06:45Z",
+    "org": {
+      "id": 19522637,
+      "login": "electron-in-action",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/electron-in-action",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19522637?"
+    }
+  },
+  {
+    "id": "4788499310",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 59441552,
+      "name": "electron-in-action/firesale",
+      "url": "https://api.github.com/repos/electron-in-action/firesale"
+    },
+    "payload": {
+      "push_id": 1375737813,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "7829c111b3d05cdb728d763bc9dc25feff7f84c7",
+      "before": "8f2338bcf933988456405fee9f81dcff7da0fa1d",
+      "commits": [
+        {
+          "sha": "7829c111b3d05cdb728d763bc9dc25feff7f84c7",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add link to Chapter 6's code",
+          "distinct": true,
+          "url": "https://api.github.com/repos/electron-in-action/firesale/commits/7829c111b3d05cdb728d763bc9dc25feff7f84c7"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-30T16:06:22Z",
+    "org": {
+      "id": 19522637,
+      "login": "electron-in-action",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/electron-in-action",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19522637?"
+    }
+  },
+  {
+    "id": "4788498273",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 59441552,
+      "name": "electron-in-action/firesale",
+      "url": "https://api.github.com/repos/electron-in-action/firesale"
+    },
+    "payload": {
+      "push_id": 1375737397,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/chapter-6",
+      "head": "c50015e3ad7bdf675a76fbee1ada2c14b65d2796",
+      "before": "c475630ff120b24e36b7da6e13f384fcf8b2288e",
+      "commits": [
+        {
+          "sha": "c50015e3ad7bdf675a76fbee1ada2c14b65d2796",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Return early if no file was selected",
+          "distinct": true,
+          "url": "https://api.github.com/repos/electron-in-action/firesale/commits/c50015e3ad7bdf675a76fbee1ada2c14b65d2796"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-30T16:05:43Z",
+    "org": {
+      "id": 19522637,
+      "login": "electron-in-action",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/electron-in-action",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19522637?"
+    }
+  },
+  {
+    "id": "4782108304",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 56030223,
+      "name": "turingschool/front-end-curriculum",
+      "url": "https://api.github.com/repos/turingschool/front-end-curriculum"
+    },
+    "payload": {
+      "push_id": 1373387688,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/gh-pages",
+      "head": "833cbedc53b8540f19a319eaa23668c5114c967e",
+      "before": "6165b17a5a15ec9f2116db9e6da98260fa02372e",
+      "commits": [
+        {
+          "sha": "833cbedc53b8540f19a319eaa23668c5114c967e",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add 1606 survey",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/front-end-curriculum/commits/833cbedc53b8540f19a319eaa23668c5114c967e"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-28T12:03:46Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4776583759",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 56030223,
+      "name": "turingschool/front-end-curriculum",
+      "url": "https://api.github.com/repos/turingschool/front-end-curriculum"
+    },
+    "payload": {
+      "push_id": 1371546787,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/gh-pages",
+      "head": "5d0f60dbf4236dc0394cd885827d27c7a94a93e6",
+      "before": "19c5c82db93e40f1f50c27888e77a0f24083e8db",
+      "commits": [
+        {
+          "sha": "5d0f60dbf4236dc0394cd885827d27c7a94a93e6",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Actually add some blurbs to 1610's schedule so it's not all headings",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/front-end-curriculum/commits/5d0f60dbf4236dc0394cd885827d27c7a94a93e6"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-27T14:10:55Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4776573590",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 56030223,
+      "name": "turingschool/front-end-curriculum",
+      "url": "https://api.github.com/repos/turingschool/front-end-curriculum"
+    },
+    "payload": {
+      "push_id": 1371543193,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/gh-pages",
+      "head": "19c5c82db93e40f1f50c27888e77a0f24083e8db",
+      "before": "76d81705938fc41f7dc7f9ccd8e3eae8ff939bdb",
+      "commits": [
+        {
+          "sha": "19c5c82db93e40f1f50c27888e77a0f24083e8db",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add schedule for 1606",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/front-end-curriculum/commits/19c5c82db93e40f1f50c27888e77a0f24083e8db"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-27T14:09:16Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4772443457",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 71789204,
+      "name": "ab255/homebrewJournal",
+      "url": "https://api.github.com/repos/ab255/homebrewJournal"
+    },
+    "payload": {
+      "ref": "steve-adam-pairing",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2016-10-26T20:51:32Z"
+  },
+  {
+    "id": "4766100659",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 71485740,
+      "name": "kerrd89/social-feed",
+      "url": "https://api.github.com/repos/kerrd89/social-feed"
+    },
+    "payload": {
+      "push_id": 1367972722,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/working",
+      "head": "eecf88a11bd3f4afeeebe0d43d36288646b53f8f",
+      "before": "81f223689fc203213cbe0a0cbb490e01cc107731",
+      "commits": [
+        {
+          "sha": "41b40c3b8a8f3dee3b94de61aec35e17ab970ee3",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add concurrently",
+          "distinct": true,
+          "url": "https://api.github.com/repos/kerrd89/social-feed/commits/41b40c3b8a8f3dee3b94de61aec35e17ab970ee3"
+        },
+        {
+          "sha": "eecf88a11bd3f4afeeebe0d43d36288646b53f8f",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Break from create-react-app",
+          "distinct": true,
+          "url": "https://api.github.com/repos/kerrd89/social-feed/commits/eecf88a11bd3f4afeeebe0d43d36288646b53f8f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-25T21:44:24Z"
+  },
+  {
+    "id": "4765108289",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 71916937,
+      "name": "turingschool-examples/swipe-away",
+      "url": "https://api.github.com/repos/turingschool-examples/swipe-away"
+    },
+    "payload": {
+      "push_id": 1367657716,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "af5af530403582fc9dcf900211937b7233a10e39",
+      "before": "a439512dfab4a8e7e7ac06d5ac08fd2a2b63d7cb",
+      "commits": [
+        {
+          "sha": "af5af530403582fc9dcf900211937b7233a10e39",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add image to README",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool-examples/swipe-away/commits/af5af530403582fc9dcf900211937b7233a10e39"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-25T18:50:31Z",
+    "org": {
+      "id": 8518346,
+      "login": "turingschool-examples",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool-examples",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8518346?"
+    }
+  },
+  {
+    "id": "4765092448",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 71916937,
+      "name": "turingschool-examples/swipe-away",
+      "url": "https://api.github.com/repos/turingschool-examples/swipe-away"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2016-10-25T18:47:55Z",
+    "org": {
+      "id": 8518346,
+      "login": "turingschool-examples",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool-examples",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8518346?"
+    }
+  },
+  {
+    "id": "4764261944",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 71916937,
+      "name": "turingschool-examples/swipe-away",
+      "url": "https://api.github.com/repos/turingschool-examples/swipe-away"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2016-10-25T16:29:57Z",
+    "org": {
+      "id": 8518346,
+      "login": "turingschool-examples",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool-examples",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8518346?"
+    }
+  },
+  {
+    "id": "4763564739",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 71016948,
+      "name": "stevekinney/exercises",
+      "url": "https://api.github.com/repos/stevekinney/exercises"
+    },
+    "payload": {
+      "push_id": 1367163696,
+      "size": 3,
+      "distinct_size": 3,
+      "ref": "refs/heads/master",
+      "head": "8badcc5aa03e12af8768fd7c4b0df2d958d7d0f2",
+      "before": "e3692475b672118f3e04a93c86035df60abd4444",
+      "commits": [
+        {
+          "sha": "a06ad56432252eb062c967127e7eb7b7306d7605",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add more tests for isAnagram",
+          "distinct": true,
+          "url": "https://api.github.com/repos/stevekinney/exercises/commits/a06ad56432252eb062c967127e7eb7b7306d7605"
+        },
+        {
+          "sha": "ab6c96b2404171e8a472f86a353da5c49e564051",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Update old exercises",
+          "distinct": true,
+          "url": "https://api.github.com/repos/stevekinney/exercises/commits/ab6c96b2404171e8a472f86a353da5c49e564051"
+        },
+        {
+          "sha": "8badcc5aa03e12af8768fd7c4b0df2d958d7d0f2",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add functional lists and flatten",
+          "distinct": true,
+          "url": "https://api.github.com/repos/stevekinney/exercises/commits/8badcc5aa03e12af8768fd7c4b0df2d958d7d0f2"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-25T14:46:47Z"
+  },
+  {
+    "id": "4760456626",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 59441552,
+      "name": "electron-in-action/firesale",
+      "url": "https://api.github.com/repos/electron-in-action/firesale"
+    },
+    "payload": {
+      "push_id": 1366094246,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/chapter-5",
+      "head": "ab1bd4a22c100b1b0dfc06d01e2915a1011a8f98",
+      "before": "a12a4fe441c288ceb11535cc557dfd5d54c50a85",
+      "commits": [
+        {
+          "sha": "ab1bd4a22c100b1b0dfc06d01e2915a1011a8f98",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Return early if no file was selected",
+          "distinct": true,
+          "url": "https://api.github.com/repos/electron-in-action/firesale/commits/ab1bd4a22c100b1b0dfc06d01e2915a1011a8f98"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-25T03:12:14Z",
+    "org": {
+      "id": 19522637,
+      "login": "electron-in-action",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/electron-in-action",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19522637?"
+    }
+  },
+  {
+    "id": "4760449490",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 59441552,
+      "name": "electron-in-action/firesale",
+      "url": "https://api.github.com/repos/electron-in-action/firesale"
+    },
+    "payload": {
+      "push_id": 1366091926,
+      "size": 4,
+      "distinct_size": 4,
+      "ref": "refs/heads/chapter-6",
+      "head": "c475630ff120b24e36b7da6e13f384fcf8b2288e",
+      "before": "9da92dd6c3764ac48ff94fce44111482e7ff9056",
+      "commits": [
+        {
+          "sha": "124c3ac2d722752075fae5e2cd32b32792015041",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add in completed edit and window menus",
+          "distinct": true,
+          "url": "https://api.github.com/repos/electron-in-action/firesale/commits/124c3ac2d722752075fae5e2cd32b32792015041"
+        },
+        {
+          "sha": "09811a965f63957143e009ee69a4015f04f3ac14",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add menu and update main process",
+          "distinct": true,
+          "url": "https://api.github.com/repos/electron-in-action/firesale/commits/09811a965f63957143e009ee69a4015f04f3ac14"
+        },
+        {
+          "sha": "276bbbeeaa3d98b831b9e180dfd643c62db1b3b0",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Move require statement",
+          "distinct": true,
+          "url": "https://api.github.com/repos/electron-in-action/firesale/commits/276bbbeeaa3d98b831b9e180dfd643c62db1b3b0"
+        },
+        {
+          "sha": "c475630ff120b24e36b7da6e13f384fcf8b2288e",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add context menu",
+          "distinct": true,
+          "url": "https://api.github.com/repos/electron-in-action/firesale/commits/c475630ff120b24e36b7da6e13f384fcf8b2288e"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-25T03:09:55Z",
+    "org": {
+      "id": 19522637,
+      "login": "electron-in-action",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/electron-in-action",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19522637?"
+    }
+  },
+  {
+    "id": "4758598068",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 59441552,
+      "name": "electron-in-action/firesale",
+      "url": "https://api.github.com/repos/electron-in-action/firesale"
+    },
+    "payload": {
+      "ref": "chapter-6",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2016-10-24T19:59:00Z",
+    "org": {
+      "id": 19522637,
+      "login": "electron-in-action",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/electron-in-action",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19522637?"
+    }
+  },
+  {
+    "id": "4756459870",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 56030223,
+      "name": "turingschool/front-end-curriculum",
+      "url": "https://api.github.com/repos/turingschool/front-end-curriculum"
+    },
+    "payload": {
+      "push_id": 1364823319,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/gh-pages",
+      "head": "c94a8e61c109fe9bdd06cf04199af7e85ce7606e",
+      "before": "4734171e44daaf4b01ae66362915655659121e9f",
+      "commits": [
+        {
+          "sha": "c94a8e61c109fe9bdd06cf04199af7e85ce7606e",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add Redux lesson to the index page",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/front-end-curriculum/commits/c94a8e61c109fe9bdd06cf04199af7e85ce7606e"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-24T14:04:22Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4756452271",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 56030223,
+      "name": "turingschool/front-end-curriculum",
+      "url": "https://api.github.com/repos/turingschool/front-end-curriculum"
+    },
+    "payload": {
+      "push_id": 1364820851,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/gh-pages",
+      "head": "4734171e44daaf4b01ae66362915655659121e9f",
+      "before": "6e475ed240b4f8b1c902b29e57b8c5cc5c907ae3",
+      "commits": [
+        {
+          "sha": "4734171e44daaf4b01ae66362915655659121e9f",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add image to Redux Revisited lesson",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/front-end-curriculum/commits/4734171e44daaf4b01ae66362915655659121e9f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-24T14:03:11Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4753135457",
+    "type": "PushEvent",
+    "actor": {
+      "id": 251000,
+      "login": "stevekinney",
+      "display_login": "stevekinney",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevekinney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251000?"
+    },
+    "repo": {
+      "id": 56030223,
+      "name": "turingschool/front-end-curriculum",
+      "url": "https://api.github.com/repos/turingschool/front-end-curriculum"
+    },
+    "payload": {
+      "push_id": 1363628753,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/gh-pages",
+      "head": "f71032f27afa2e08bd1adb41510ff763fc71ffac",
+      "before": "ddf458c7814632ad54d106079538ff4442b7fcb2",
+      "commits": [
+        {
+          "sha": "f2c0b6ac038a34d099e0391b3a90ba7cdb5ae242",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Add pairing for 1606 for the week",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/front-end-curriculum/commits/f2c0b6ac038a34d099e0391b3a90ba7cdb5ae242"
+        },
+        {
+          "sha": "f71032f27afa2e08bd1adb41510ff763fc71ffac",
+          "author": {
+            "email": "hello@stevekinney.net",
+            "name": "Steve Kinney"
+          },
+          "message": "Resolve conflicts\n\nAlso, add in some parentheses because apparently @breethomas cares more\nabout emoji than proper formatting.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/front-end-curriculum/commits/f71032f27afa2e08bd1adb41510ff763fc71ffac"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-23T20:19:28Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+/* page styles */
+
+body {
+  padding: 1rem;
+  background: #f6f6f6;
+  color: #44433f;
+  text-align: center;
+  font-family: 'Anonymous Pro', 'Courier New', 'Courier', monospace;
+  font-size: 1.15rem;
+  line-height: 1.4;
+}
+
+h1,
+h2 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+h1 {
+  margin-bottom: 0.25em;
+  font-weight: 300;
+  font-size: 2rem;
+  color: #ff66d8;
+}
+
+h2 {
+  font-weight: 200;
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+button {
+  font-weight: 200;
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 2rem;
+  max-width: 90%;
+  margin: 1rem auto 2rem;
+  line-height: 2rem;
+  background: #EAEAEA;
+}
+
+ul p {
+  font-style: italic;
+}
+
+li::before {
+  font-size: 2rem;
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: .5rem;
+  font-style: normal;
+}
+
+li::before {
+  content: '\01F63B';
+  margin-right: 0.25em;
+}

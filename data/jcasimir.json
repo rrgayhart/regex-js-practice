@@ -1,0 +1,1565 @@
+[
+  {
+    "id": "4800351367",
+    "type": "MemberEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 71583957,
+      "name": "turingschool/monocle",
+      "url": "https://api.github.com/repos/turingschool/monocle"
+    },
+    "payload": {
+      "member": {
+        "login": "calaway",
+        "id": 14339707,
+        "avatar_url": "https://avatars.githubusercontent.com/u/14339707?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/calaway",
+        "html_url": "https://github.com/calaway",
+        "followers_url": "https://api.github.com/users/calaway/followers",
+        "following_url": "https://api.github.com/users/calaway/following{/other_user}",
+        "gists_url": "https://api.github.com/users/calaway/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/calaway/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/calaway/subscriptions",
+        "organizations_url": "https://api.github.com/users/calaway/orgs",
+        "repos_url": "https://api.github.com/users/calaway/repos",
+        "events_url": "https://api.github.com/users/calaway/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/calaway/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "action": "added"
+    },
+    "public": true,
+    "created_at": "2016-11-01T20:30:30Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4798520615",
+    "type": "MemberEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 72547470,
+      "name": "turingschool/deck",
+      "url": "https://api.github.com/repos/turingschool/deck"
+    },
+    "payload": {
+      "member": {
+        "login": "j-sm-n",
+        "id": 9372657,
+        "avatar_url": "https://avatars.githubusercontent.com/u/9372657?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/j-sm-n",
+        "html_url": "https://github.com/j-sm-n",
+        "followers_url": "https://api.github.com/users/j-sm-n/followers",
+        "following_url": "https://api.github.com/users/j-sm-n/following{/other_user}",
+        "gists_url": "https://api.github.com/users/j-sm-n/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/j-sm-n/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/j-sm-n/subscriptions",
+        "organizations_url": "https://api.github.com/users/j-sm-n/orgs",
+        "repos_url": "https://api.github.com/users/j-sm-n/repos",
+        "events_url": "https://api.github.com/users/j-sm-n/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/j-sm-n/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "action": "added"
+    },
+    "public": true,
+    "created_at": "2016-11-01T15:30:05Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4798473532",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 72547470,
+      "name": "turingschool/deck",
+      "url": "https://api.github.com/repos/turingschool/deck"
+    },
+    "payload": {
+      "ref": "production",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2016-11-01T15:22:48Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4798379423",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 72547470,
+      "name": "turingschool/deck",
+      "url": "https://api.github.com/repos/turingschool/deck"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2016-11-01T15:08:01Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4798364931",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 72547470,
+      "name": "turingschool/deck",
+      "url": "https://api.github.com/repos/turingschool/deck"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2016-11-01T15:05:44Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4784099275",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 60272755,
+      "name": "turingschool/try-turing",
+      "url": "https://api.github.com/repos/turingschool/try-turing"
+    },
+    "payload": {
+      "push_id": 1374049701,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/gh-pages",
+      "head": "30c547e31da1e12d0f5681674f44745f00e3fed8",
+      "before": "7768a16e11b8d00d54889192663c77807044a0f2",
+      "commits": [
+        {
+          "sha": "30c547e31da1e12d0f5681674f44745f00e3fed8",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Quick hack to re-enable all content",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/try-turing/commits/30c547e31da1e12d0f5681674f44745f00e3fed8"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-28T18:28:09Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4764040704",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 21002580,
+      "name": "turingschool/ruby-submissions",
+      "url": "https://api.github.com/repos/turingschool/ruby-submissions"
+    },
+    "payload": {
+      "push_id": 1367320118,
+      "size": 3,
+      "distinct_size": 3,
+      "ref": "refs/heads/master",
+      "head": "688d7372cdd285a0570735ccddfae6673d5b0f40",
+      "before": "45845fd78ce8f07fd71c73461871bbcd97f6b34b",
+      "commits": [
+        {
+          "sha": "dcbd5fee940e3f48bb3d789d25e185a43f004000",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Scores for my CompleteMe evals",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/ruby-submissions/commits/dcbd5fee940e3f48bb3d789d25e185a43f004000"
+        },
+        {
+          "sha": "51bcc849d9b28c503f676001c12f62bfe6063c92",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Merge branch 'master' of github.com:turingschool/ruby-submissions",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/ruby-submissions/commits/51bcc849d9b28c503f676001c12f62bfe6063c92"
+        },
+        {
+          "sha": "688d7372cdd285a0570735ccddfae6673d5b0f40",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Merge branch 'master' of github.com:turingschool/ruby-submissions",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/ruby-submissions/commits/688d7372cdd285a0570735ccddfae6673d5b0f40"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-25T15:55:07Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4749323781",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 71583957,
+      "name": "turingschool/monocle",
+      "url": "https://api.github.com/repos/turingschool/monocle"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/turingschool/monocle/issues/2",
+        "repository_url": "https://api.github.com/repos/turingschool/monocle",
+        "labels_url": "https://api.github.com/repos/turingschool/monocle/issues/2/labels{/name}",
+        "comments_url": "https://api.github.com/repos/turingschool/monocle/issues/2/comments",
+        "events_url": "https://api.github.com/repos/turingschool/monocle/issues/2/events",
+        "html_url": "https://github.com/turingschool/monocle/issues/2",
+        "id": 184583865,
+        "number": 2,
+        "title": "Parsing the CoBiz data file",
+        "user": {
+          "login": "jcasimir",
+          "id": 43102,
+          "avatar_url": "https://avatars.githubusercontent.com/u/43102?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jcasimir",
+          "html_url": "https://github.com/jcasimir",
+          "followers_url": "https://api.github.com/users/jcasimir/followers",
+          "following_url": "https://api.github.com/users/jcasimir/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jcasimir/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jcasimir/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jcasimir/subscriptions",
+          "organizations_url": "https://api.github.com/users/jcasimir/orgs",
+          "repos_url": "https://api.github.com/users/jcasimir/repos",
+          "events_url": "https://api.github.com/users/jcasimir/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jcasimir/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "assignees": [
+
+        ],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2016-10-21T22:29:17Z",
+        "updated_at": "2016-10-21T22:29:17Z",
+        "closed_at": null,
+        "body": "We need to write a parser that can take that mess of text in `data/` and turn it into a clean CSV or JSON."
+      }
+    },
+    "public": true,
+    "created_at": "2016-10-21T22:29:17Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4749321346",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 71583957,
+      "name": "turingschool/monocle",
+      "url": "https://api.github.com/repos/turingschool/monocle"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/turingschool/monocle/issues/1",
+        "repository_url": "https://api.github.com/repos/turingschool/monocle",
+        "labels_url": "https://api.github.com/repos/turingschool/monocle/issues/1/labels{/name}",
+        "comments_url": "https://api.github.com/repos/turingschool/monocle/issues/1/comments",
+        "events_url": "https://api.github.com/repos/turingschool/monocle/issues/1/events",
+        "html_url": "https://github.com/turingschool/monocle/issues/1",
+        "id": 184565986,
+        "number": 1,
+        "title": "Early-stage bike shedding",
+        "user": {
+          "login": "stevekinney",
+          "id": 251000,
+          "avatar_url": "https://avatars.githubusercontent.com/u/251000?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/stevekinney",
+          "html_url": "https://github.com/stevekinney",
+          "followers_url": "https://api.github.com/users/stevekinney/followers",
+          "following_url": "https://api.github.com/users/stevekinney/following{/other_user}",
+          "gists_url": "https://api.github.com/users/stevekinney/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/stevekinney/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/stevekinney/subscriptions",
+          "organizations_url": "https://api.github.com/users/stevekinney/orgs",
+          "repos_url": "https://api.github.com/users/stevekinney/repos",
+          "events_url": "https://api.github.com/users/stevekinney/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/stevekinney/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "assignees": [
+
+        ],
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2016-10-21T20:47:51Z",
+        "updated_at": "2016-10-21T22:28:37Z",
+        "closed_at": null,
+        "body": "@jcasimir, I'm kind of thinking this could be an API-first project. Not to bike shed too early, but I'm thinking that the front-end would be easier to build if it wasn't in the asset pipeline. Second thought is that it would be super cool to use this as an opportunity to teach how to both produce and consume a [JSON API](http://jsonapi.org/)-compliant API. I think Rails 5 _might_ support this by default, but I'm a little out of touch with Rails these days."
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/turingschool/monocle/issues/comments/255480303",
+        "html_url": "https://github.com/turingschool/monocle/issues/1#issuecomment-255480303",
+        "issue_url": "https://api.github.com/repos/turingschool/monocle/issues/1",
+        "id": 255480303,
+        "user": {
+          "login": "jcasimir",
+          "id": 43102,
+          "avatar_url": "https://avatars.githubusercontent.com/u/43102?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jcasimir",
+          "html_url": "https://github.com/jcasimir",
+          "followers_url": "https://api.github.com/users/jcasimir/followers",
+          "following_url": "https://api.github.com/users/jcasimir/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jcasimir/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jcasimir/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jcasimir/subscriptions",
+          "organizations_url": "https://api.github.com/users/jcasimir/orgs",
+          "repos_url": "https://api.github.com/users/jcasimir/repos",
+          "events_url": "https://api.github.com/users/jcasimir/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jcasimir/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2016-10-21T22:28:37Z",
+        "updated_at": "2016-10-21T22:28:37Z",
+        "body": "yeah I'm down with thinking about the API from the start / doing that first."
+      }
+    },
+    "public": true,
+    "created_at": "2016-10-21T22:28:37Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4748106557",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 71583957,
+      "name": "turingschool/monocle",
+      "url": "https://api.github.com/repos/turingschool/monocle"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2016-10-21T17:08:59Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4748102595",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 71583957,
+      "name": "turingschool/monocle",
+      "url": "https://api.github.com/repos/turingschool/monocle"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2016-10-21T17:08:01Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4706534003",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 21002580,
+      "name": "turingschool/ruby-submissions",
+      "url": "https://api.github.com/repos/turingschool/ruby-submissions"
+    },
+    "payload": {
+      "push_id": 1347364905,
+      "size": 6,
+      "distinct_size": 6,
+      "ref": "refs/heads/master",
+      "head": "c3c6253b8405ac5557bd9aafcc29eb9c036b701c",
+      "before": "d4ad351c3c96a907b109f6d41414a567d6551f01",
+      "commits": [
+        {
+          "sha": "1bdec7af802b0c21850340a9cb82747ff98ceb6f",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Scores for Mike",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/ruby-submissions/commits/1bdec7af802b0c21850340a9cb82747ff98ceb6f"
+        },
+        {
+          "sha": "c6a5fd7311073cedb3863a2214a97ba8325591ea",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Scores for Nick G",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/ruby-submissions/commits/c6a5fd7311073cedb3863a2214a97ba8325591ea"
+        },
+        {
+          "sha": "ac802c73174d616541d9dbee4bf58f41b7bbc28c",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Scores for Phyllis",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/ruby-submissions/commits/ac802c73174d616541d9dbee4bf58f41b7bbc28c"
+        },
+        {
+          "sha": "87263e8320a3686f53d033eea58e65c307da57a3",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Scores for Dan",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/ruby-submissions/commits/87263e8320a3686f53d033eea58e65c307da57a3"
+        },
+        {
+          "sha": "65317f68960da6575366b3c0467a01951b87ace1",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Scores for Mike",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/ruby-submissions/commits/65317f68960da6575366b3c0467a01951b87ace1"
+        },
+        {
+          "sha": "c3c6253b8405ac5557bd9aafcc29eb9c036b701c",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Merge branch 'master' of github.com:turingschool/ruby-submissions",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/ruby-submissions/commits/c3c6253b8405ac5557bd9aafcc29eb9c036b701c"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-13T17:27:15Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4654506955",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 52908884,
+      "name": "turingschool/outcomes",
+      "url": "https://api.github.com/repos/turingschool/outcomes"
+    },
+    "payload": {
+      "push_id": 1329722986,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "887e3131c75484851290f6860f71a8088e1c586d",
+      "before": "f26b780b94ddeb172b714395cba0ad34400f0558",
+      "commits": [
+        {
+          "sha": "887e3131c75484851290f6860f71a8088e1c586d",
+          "author": {
+            "email": "jeff@turing.io",
+            "name": "Jeff Casimir"
+          },
+          "message": "Jobs",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/outcomes/commits/887e3131c75484851290f6860f71a8088e1c586d"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-03T20:06:46Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4652327200",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 52908884,
+      "name": "turingschool/outcomes",
+      "url": "https://api.github.com/repos/turingschool/outcomes"
+    },
+    "payload": {
+      "push_id": 1329023710,
+      "size": 3,
+      "distinct_size": 3,
+      "ref": "refs/heads/master",
+      "head": "f26b780b94ddeb172b714395cba0ad34400f0558",
+      "before": "85dbbe7a4dc4158727215e03785d764d3b1db240",
+      "commits": [
+        {
+          "sha": "733ac10f89385dc87834b7f4bacffa2b0a99b56b",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Tweaks to FE notes",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/outcomes/commits/733ac10f89385dc87834b7f4bacffa2b0a99b56b"
+        },
+        {
+          "sha": "34bd07bc9a7e9b83d5644c9f895e7773d9a440fa",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Tweaks to Front End notes",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/outcomes/commits/34bd07bc9a7e9b83d5644c9f895e7773d9a440fa"
+        },
+        {
+          "sha": "f26b780b94ddeb172b714395cba0ad34400f0558",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Jeff notes",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/outcomes/commits/f26b780b94ddeb172b714395cba0ad34400f0558"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-03T13:42:08Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4650049857",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 52908884,
+      "name": "turingschool/outcomes",
+      "url": "https://api.github.com/repos/turingschool/outcomes"
+    },
+    "payload": {
+      "push_id": 1328198851,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "2dbf8e6f23570ee2b1de91f2101fec979b8c017a",
+      "before": "262340d181b35ed51159731e530c1223c8f78777",
+      "commits": [
+        {
+          "sha": "2dbf8e6f23570ee2b1de91f2101fec979b8c017a",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Basic outline for tomorrow",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/outcomes/commits/2dbf8e6f23570ee2b1de91f2101fec979b8c017a"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-10-03T00:29:02Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4605952313",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 21179968,
+      "name": "turingschool/today",
+      "url": "https://api.github.com/repos/turingschool/today"
+    },
+    "payload": {
+      "push_id": 1312836246,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "f30d3a457c53f183eaa820f59124d156432acf94",
+      "before": "ab7c0da6d0e8c17b2e2414b5de30a0779fef3a89",
+      "commits": [
+        {
+          "sha": "7947ae867ad86bfcfce173b31b9683ccd09b6aa7",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Explanation of expectations",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/today/commits/7947ae867ad86bfcfce173b31b9683ccd09b6aa7"
+        },
+        {
+          "sha": "f30d3a457c53f183eaa820f59124d156432acf94",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "More clarity and edits",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/today/commits/f30d3a457c53f183eaa820f59124d156432acf94"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-23T00:44:01Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4605931425",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 21179968,
+      "name": "turingschool/today",
+      "url": "https://api.github.com/repos/turingschool/today"
+    },
+    "payload": {
+      "push_id": 1312829468,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "ab7c0da6d0e8c17b2e2414b5de30a0779fef3a89",
+      "before": "581947476110022fb162b755773cb0da1c76894d",
+      "commits": [
+        {
+          "sha": "ab7c0da6d0e8c17b2e2414b5de30a0779fef3a89",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Full board for tomorrow afternoon",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/today/commits/ab7c0da6d0e8c17b2e2414b5de30a0779fef3a89"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-23T00:36:09Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4605889902",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 21179968,
+      "name": "turingschool/today",
+      "url": "https://api.github.com/repos/turingschool/today"
+    },
+    "payload": {
+      "push_id": 1312816975,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "581947476110022fb162b755773cb0da1c76894d",
+      "before": "55d9bb82f2db6a56fd48a1a03daa0d4f2d1268b3",
+      "commits": [
+        {
+          "sha": "581947476110022fb162b755773cb0da1c76894d",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Add Jobs session",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/today/commits/581947476110022fb162b755773cb0da1c76894d"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-23T00:22:18Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4605863834",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 21179968,
+      "name": "turingschool/today",
+      "url": "https://api.github.com/repos/turingschool/today"
+    },
+    "payload": {
+      "push_id": 1312809180,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "55d9bb82f2db6a56fd48a1a03daa0d4f2d1268b3",
+      "before": "34299682ac27deb340035209ee956d7834976a4c",
+      "commits": [
+        {
+          "sha": "a34ce0e271339aa95c0462e46ab89fb985250f4f",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Revising with Josh",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/today/commits/a34ce0e271339aa95c0462e46ab89fb985250f4f"
+        },
+        {
+          "sha": "55d9bb82f2db6a56fd48a1a03daa0d4f2d1268b3",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Git is so hard",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/today/commits/55d9bb82f2db6a56fd48a1a03daa0d4f2d1268b3"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-23T00:13:46Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4605270162",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 21179968,
+      "name": "turingschool/today",
+      "url": "https://api.github.com/repos/turingschool/today"
+    },
+    "payload": {
+      "push_id": 1312625021,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "94111c2d84c2b70c29ecc6ebedcc137949b3e85b",
+      "before": "79b07172490f0dc35bc4471c2deb7860e20dff05",
+      "commits": [
+        {
+          "sha": "94111c2d84c2b70c29ecc6ebedcc137949b3e85b",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Bumping some B1s to tomorrow",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/today/commits/94111c2d84c2b70c29ecc6ebedcc137949b3e85b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-22T21:39:27Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4541266795",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 21002580,
+      "name": "turingschool/ruby-submissions",
+      "url": "https://api.github.com/repos/turingschool/ruby-submissions"
+    },
+    "payload": {
+      "push_id": 1291192185,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "af95ae508d424922b4c56a62aa905b28e47dff76",
+      "before": "c1db0b572e23f6578fbf8949c82906d76a307c80",
+      "commits": [
+        {
+          "sha": "f7fd349b74cd2dc1b2e47733116c550e4ffb18e3",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Event reporter evals",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/ruby-submissions/commits/f7fd349b74cd2dc1b2e47733116c550e4ffb18e3"
+        },
+        {
+          "sha": "af95ae508d424922b4c56a62aa905b28e47dff76",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Merge branch 'master' of github.com:turingschool/ruby-submissions",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/ruby-submissions/commits/af95ae508d424922b4c56a62aa905b28e47dff76"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-09T17:13:41Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4535613349",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 23230424,
+      "name": "turingschool/lesson_plans",
+      "url": "https://api.github.com/repos/turingschool/lesson_plans"
+    },
+    "payload": {
+      "push_id": 1289358185,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "d84aeb91b45bbdfa8e49d0482dda465077120462",
+      "before": "13eb7f4879e8573663f90f15a60caccccf39f260",
+      "commits": [
+        {
+          "sha": "d84aeb91b45bbdfa8e49d0482dda465077120462",
+          "author": {
+            "email": "jeff@turing.io",
+            "name": "Jeff Casimir"
+          },
+          "message": "Make the vehicle example executable",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/lesson_plans/commits/d84aeb91b45bbdfa8e49d0482dda465077120462"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-08T17:53:28Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4531123623",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 2288534,
+      "name": "turingschool/curriculum",
+      "url": "https://api.github.com/repos/turingschool/curriculum"
+    },
+    "payload": {
+      "push_id": 1287915097,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "00b4f3665e17daa8516f241ff92a1ad7369922c5",
+      "before": "01225022b485670b79f1e44bd4d319c5b30e955d",
+      "commits": [
+        {
+          "sha": "29cf580b502a5ca9a9954a5a5a9a203ccfcefde0",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Kill all sessions files",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/curriculum/commits/29cf580b502a5ca9a9954a5a5a9a203ccfcefde0"
+        },
+        {
+          "sha": "00b4f3665e17daa8516f241ff92a1ad7369922c5",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "More names out",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/curriculum/commits/00b4f3665e17daa8516f241ff92a1ad7369922c5"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-08T00:36:11Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4531110288",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 2288534,
+      "name": "turingschool/curriculum",
+      "url": "https://api.github.com/repos/turingschool/curriculum"
+    },
+    "payload": {
+      "push_id": 1287910833,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "01225022b485670b79f1e44bd4d319c5b30e955d",
+      "before": "d3c92b26ef7b59de4d9ca41bac6a3f5b2c5acb3b",
+      "commits": [
+        {
+          "sha": "01225022b485670b79f1e44bd4d319c5b30e955d",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Just pre-build manually locally before deployment",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/curriculum/commits/01225022b485670b79f1e44bd4d319c5b30e955d"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-08T00:32:05Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4531099233",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 2288534,
+      "name": "turingschool/curriculum",
+      "url": "https://api.github.com/repos/turingschool/curriculum"
+    },
+    "payload": {
+      "push_id": 1287908027,
+      "size": 4,
+      "distinct_size": 4,
+      "ref": "refs/heads/master",
+      "head": "d3c92b26ef7b59de4d9ca41bac6a3f5b2c5acb3b",
+      "before": "275911560e6fc7ff76dee49ef4d3a268c3d26d56",
+      "commits": [
+        {
+          "sha": "32a7ac388d72dcbda15d296585989041afdfebca",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Correcting the lexer name shell->bash",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/curriculum/commits/32a7ac388d72dcbda15d296585989041afdfebca"
+        },
+        {
+          "sha": "f039113a219cd80100acfdd95b4449c1c077cc74",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Stripping missing lexers",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/curriculum/commits/f039113a219cd80100acfdd95b4449c1c077cc74"
+        },
+        {
+          "sha": "9eba456f75f949262d322c63fad8a22b04af9d52",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "More highlight debugging",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/curriculum/commits/9eba456f75f949262d322c63fad8a22b04af9d52"
+        },
+        {
+          "sha": "d3c92b26ef7b59de4d9ca41bac6a3f5b2c5acb3b",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Setup for Rack-Jekyll",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/curriculum/commits/d3c92b26ef7b59de4d9ca41bac6a3f5b2c5acb3b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-08T00:26:52Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4530978920",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 4349037,
+      "name": "JumpstartLab/heroku-buildpack-ruby-octopress",
+      "url": "https://api.github.com/repos/JumpstartLab/heroku-buildpack-ruby-octopress"
+    },
+    "payload": {
+      "push_id": 1287873166,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "785a298b39a1540f00d3f6f60a4ab22fb5ccf87e",
+      "before": "6c71316c3282a4edcab2c7622e8485bb68392f51",
+      "commits": [
+        {
+          "sha": "785a298b39a1540f00d3f6f60a4ab22fb5ccf87e",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "If it doesn't work then you can't break it",
+          "distinct": true,
+          "url": "https://api.github.com/repos/JumpstartLab/heroku-buildpack-ruby-octopress/commits/785a298b39a1540f00d3f6f60a4ab22fb5ccf87e"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-07T23:49:38Z",
+    "org": {
+      "id": 856601,
+      "login": "JumpstartLab",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/JumpstartLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/856601?"
+    }
+  },
+  {
+    "id": "4530953321",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 2288534,
+      "name": "turingschool/curriculum",
+      "url": "https://api.github.com/repos/turingschool/curriculum"
+    },
+    "payload": {
+      "push_id": 1287865699,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "275911560e6fc7ff76dee49ef4d3a268c3d26d56",
+      "before": "edd569f4ba011b08cab68207847274a36e6fa3c3",
+      "commits": [
+        {
+          "sha": "275911560e6fc7ff76dee49ef4d3a268c3d26d56",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Back to 1.9.3",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/curriculum/commits/275911560e6fc7ff76dee49ef4d3a268c3d26d56"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-07T23:41:55Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4530949701",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 2288534,
+      "name": "turingschool/curriculum",
+      "url": "https://api.github.com/repos/turingschool/curriculum"
+    },
+    "payload": {
+      "push_id": 1287864630,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "edd569f4ba011b08cab68207847274a36e6fa3c3",
+      "before": "72445af6dea46559685a661c56c54960dc26280b",
+      "commits": [
+        {
+          "sha": "edd569f4ba011b08cab68207847274a36e6fa3c3",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Deployment",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/curriculum/commits/edd569f4ba011b08cab68207847274a36e6fa3c3"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-07T23:40:51Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4530943765",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 2288534,
+      "name": "turingschool/curriculum",
+      "url": "https://api.github.com/repos/turingschool/curriculum"
+    },
+    "payload": {
+      "push_id": 1287862837,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "72445af6dea46559685a661c56c54960dc26280b",
+      "before": "dc629bc014e6efa9a06ec9100b75a4c1d2981d7b",
+      "commits": [
+        {
+          "sha": "72445af6dea46559685a661c56c54960dc26280b",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "2.0.0",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/curriculum/commits/72445af6dea46559685a661c56c54960dc26280b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-07T23:39:07Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  },
+  {
+    "id": "4530940686",
+    "type": "PushEvent",
+    "actor": {
+      "id": 43102,
+      "login": "jcasimir",
+      "display_login": "jcasimir",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jcasimir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43102?"
+    },
+    "repo": {
+      "id": 2288534,
+      "name": "turingschool/curriculum",
+      "url": "https://api.github.com/repos/turingschool/curriculum"
+    },
+    "payload": {
+      "push_id": 1287861894,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "dc629bc014e6efa9a06ec9100b75a4c1d2981d7b",
+      "before": "ff628b0a4a83062a94a2fa29d5b7384970df83be",
+      "commits": [
+        {
+          "sha": "dc629bc014e6efa9a06ec9100b75a4c1d2981d7b",
+          "author": {
+            "email": "jeff@casimircreative.com",
+            "name": "Jeff Casimir"
+          },
+          "message": "Trying newer Ruby versions with Heroku",
+          "distinct": true,
+          "url": "https://api.github.com/repos/turingschool/curriculum/commits/dc629bc014e6efa9a06ec9100b75a4c1d2981d7b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2016-09-07T23:38:13Z",
+    "org": {
+      "id": 7934292,
+      "login": "turingschool",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/turingschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7934292?"
+    }
+  }
+]
