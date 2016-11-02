@@ -36,6 +36,10 @@ button {
 
 ul {
   list-style: none;
+}
+
+.container ul {
+  list-style: none;
   padding: 2rem;
   max-width: 90%;
   margin: 1rem auto 2rem;
@@ -47,7 +51,7 @@ ul p {
   font-style: italic;
 }
 
-li::before {
+.container li::before {
   font-size: 2rem;
   vertical-align: middle;
   display: inline-block;
@@ -55,7 +59,7 @@ li::before {
   font-style: normal;
 }
 
-li::before {
+.container li::before {
   content: '\01F63B';
   margin-right: 0.25em;
 }

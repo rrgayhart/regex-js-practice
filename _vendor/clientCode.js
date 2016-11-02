@@ -25,4 +25,8 @@ $(document).ready(function(){
 
   var enthusiasm = e.usageOfKnownEnthusiasmWords() || [];
   $('.enth-words span').text(enthusiasm.join(', '));
+
+  for(var i = 0; i < payloadData.length; i++){
+    $('.commit-log').append('<li>' + payloadData[i] + '</li>');
+  }
 });
